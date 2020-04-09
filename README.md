@@ -16,7 +16,7 @@ Problem: Write a class to manage a grocery list. You must be able to add, remove
 
 [Solution](https://github.com/areddish/python_problem_night/blob/master/grocery.py)
 
-## Problem 3 - Compress String
+## Compress String
 [Problem](https://www.hackerrank.com/challenges/compress-the-string/problem)
 
 [Solution](https://github.com/areddish/python_problem_night/blob/master/compress.py)
