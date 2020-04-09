@@ -21,4 +21,8 @@ Problem: Write a class to manage a grocery list. You must be able to add, remove
 
 [Solution](https://github.com/areddish/python_problem_night/blob/master/compress.py)
 
+## Designer Door mat
 
+[Problem](https://www.hackerrank.com/challenges/designer-door-mat/problem)
+
+[Solution](https://github.com/areddish/python_problem_night/blob/master/doormat.py)
