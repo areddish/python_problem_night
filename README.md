@@ -6,12 +6,12 @@
 [Solution](https://github.com/areddish/python_problem_night/blob/master/leap.py)
 
 ## Problem 2 - Triangle
-[Solution](https://www.hackerrank.com/challenges/python-quest-1/problem)
+[Problem](https://www.hackerrank.com/challenges/python-quest-1/problem)
 
 [Solution](https://github.com/areddish/python_problem_night/blob/master/triange.py)
 
 ## Problem 3 - Compress String
-[Solution](https://www.hackerrank.com/challenges/compress-the-string/problem)
+[Problem](https://www.hackerrank.com/challenges/compress-the-string/problem)
 
 [Solution](https://github.com/areddish/python_problem_night/blob/master/compress.py)
 
